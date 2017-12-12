@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.factory.abstractfac;
  * 
  * 就应该对应有多少个方法 （这应该很好理解）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface Creator {

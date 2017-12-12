@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.factory.method;
  * 
  * 这是一个具体产品队应的工厂 每个产品对应一个属于自己的工厂 该具体工厂需要实现抽象的工厂类Creator
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class LightACreator implements Creator {
@@ -25,7 +25,7 @@ public class LightACreator implements Creator {
  * 
  * 这是一个具体产品队应的工厂 每个产品对应一个属于自己的工厂 该具体工厂需要实现抽象的工厂类Creator
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 class LightBCreator implements Creator {

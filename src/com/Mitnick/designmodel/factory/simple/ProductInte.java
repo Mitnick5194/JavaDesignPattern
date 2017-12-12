@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.factory.simple;
  * 
  * 这是产品接口 每一个具体的产品都需要实现该接口（抽象产品接口）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface ProductInte {

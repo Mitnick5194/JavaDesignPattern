@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.factory.abstractfac;
  * 
  * 具体产品2B 属于抽象产品Product2
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Product2B implements Product2 {

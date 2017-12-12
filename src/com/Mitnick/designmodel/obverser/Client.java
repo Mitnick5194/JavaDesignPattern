@@ -1,7 +1,7 @@
 package com.Mitnick.designmodel.obverser;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

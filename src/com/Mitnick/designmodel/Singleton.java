@@ -3,7 +3,7 @@ package com.Mitnick.designmodel;
 /**
  * 最简单的单例（懒汉模式 线程不安全）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Singleton {

@@ -9,7 +9,7 @@ import com.Mitnick.designmodel.factory.simple.ProductInte;
  * 简单工厂模式中的客户端 这是最终与用户交互的类
  * 
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

@@ -4,7 +4,7 @@ import com.Mitnick.designmodel.factory.Car;
 import com.Mitnick.designmodel.factory.Highlander;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Customer {

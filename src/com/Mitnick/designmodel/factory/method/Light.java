@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.factory.method;
  * 
  * 每隔具体的产品必须实现该接口
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface Light {

@@ -11,7 +11,7 @@ package com.Mitnick.designmodel.decorator;
  * 
  * 这里定义一个方法 对接口的方法进行了包装（即装饰起来）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public abstract class Decorator implements Component {

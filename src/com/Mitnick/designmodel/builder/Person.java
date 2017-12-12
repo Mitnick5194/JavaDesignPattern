@@ -6,7 +6,7 @@ package com.Mitnick.designmodel.builder;
  * 这个是建造者要建造的实例 不直接给建造者使用 只有当一个建造具体
  * 实例的建造者（即实现了建造着的那个类）才需要使用此类（其实是对此类的set方法的再次封装）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Person {

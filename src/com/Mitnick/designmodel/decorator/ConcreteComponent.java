@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.decorator;
  * 
  * 最终的具体装饰类访问的包装后访问的方法就是这里面实现的方法
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class ConcreteComponent implements Component {

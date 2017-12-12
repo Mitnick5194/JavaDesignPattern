@@ -6,7 +6,7 @@ package com.Mitnick.designmodel.decorator;
  * 
  * 这就是具体的装饰器
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class ConcreteDecoratorA  extends Decorator {

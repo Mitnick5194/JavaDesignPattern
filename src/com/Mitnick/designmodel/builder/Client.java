@@ -3,7 +3,7 @@ package com.Mitnick.designmodel.builder;
 /**
  * 建造着模式
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

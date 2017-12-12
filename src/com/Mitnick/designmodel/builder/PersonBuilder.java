@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.builder;
  * 
  * (其他类提到的 “具体建造者” 是指实现了这个接口的类)
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface PersonBuilder {

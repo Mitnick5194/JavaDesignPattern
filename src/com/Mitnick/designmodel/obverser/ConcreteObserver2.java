@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.obverser;
  *  
  *  这是观察者1 需要实现观察者接口 当被观察者通知时 通过接口的方法通知此对象
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class ConcreteObserver2 implements Observer {

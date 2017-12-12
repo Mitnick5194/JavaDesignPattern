@@ -1,7 +1,7 @@
 package com.Mitnick.designmodel.factory.abstractfac;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.factory.method;
  * 
  * 客户端
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

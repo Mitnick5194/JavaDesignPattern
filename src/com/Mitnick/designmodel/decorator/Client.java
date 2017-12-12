@@ -3,7 +3,7 @@ package com.Mitnick.designmodel.decorator;
 /**
  * 装饰器模式客户端
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Client {

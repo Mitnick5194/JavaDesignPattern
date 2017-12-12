@@ -11,7 +11,7 @@ package com.Mitnick.designmodel.decorator;
  * 
  * 而这个抽象类则要实现该接口
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface Component {

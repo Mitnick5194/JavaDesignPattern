@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.builder;
  * 
  * 具体的建造实例 需要实现建造者然后对具体实例进行建造
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class XiaoMingBuilder implements PersonBuilder {

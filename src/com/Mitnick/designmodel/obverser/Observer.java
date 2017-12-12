@@ -8,7 +8,7 @@ package com.Mitnick.designmodel.obverser;
  * 观察者此方法就会被调用
  * 
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface Observer {

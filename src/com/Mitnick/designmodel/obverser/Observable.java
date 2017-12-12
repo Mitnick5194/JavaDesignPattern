@@ -10,7 +10,7 @@ import java.util.List;
  * 
  * 还要有一个通知的方法 执行该方法就会使所有观察他的对象的Observer接口方法被执行
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Observable {

@@ -11,7 +11,7 @@ package com.Mitnick.designmodel.factory.abstractfac;
  * 
  * 所以我们要继续生产 Product1B Product2B Product1C Product2C........就要相应的添加具体的工厂 Creator2 Creator3 Creator4....
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Creator1 implements Creator {

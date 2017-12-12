@@ -1,7 +1,7 @@
 package com.Mitnick.designmodel.factory.method;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Exercise {

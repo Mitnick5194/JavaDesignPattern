@@ -5,7 +5,7 @@ package com.Mitnick.designmodel.builder;
  *  
  *  通过传入一个建造者 然后对起进行建造
  *  
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class CreatPerson {

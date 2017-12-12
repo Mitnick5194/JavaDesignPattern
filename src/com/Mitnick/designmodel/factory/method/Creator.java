@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.factory.method;
  * 
  * 此时 若要生产产品 则没生产一个产品 都会对应一个具体的工厂 即一个产品对应一个工厂（该具体工厂需要继承次接口）
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public interface Creator {

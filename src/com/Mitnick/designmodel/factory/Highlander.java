@@ -1,7 +1,7 @@
 package com.Mitnick.designmodel.factory;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Highlander extends Car implements FactoryCar {

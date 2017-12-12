@@ -7,7 +7,7 @@ package com.Mitnick.designmodel.factory.simple;
  * 
  * 具体产品类 需要实现ProductInte
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class Product implements ProductInte {
@@ -25,7 +25,7 @@ public class Product implements ProductInte {
  * 
  * 具体产品类 需要实现ProductInte
  * 
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 class Product2 implements ProductInte{

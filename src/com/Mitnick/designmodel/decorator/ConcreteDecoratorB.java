@@ -1,7 +1,7 @@
 package com.Mitnick.designmodel.decorator;
 
 /**
- * @author niezhenjie
+ * @author Mitnick
  * 
  */
 public class ConcreteDecoratorB extends Decorator {
